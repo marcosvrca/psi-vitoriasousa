@@ -816,7 +816,7 @@ body.modal-open {
     grid-template-columns: 1fr;
     text-align: center;
     min-height: auto;
-    padding-bottom: 7rem;
+    padding-bottom: 5.5rem;
   }
 
   .hero__photo-wrap {
@@ -824,7 +824,7 @@ body.modal-open {
   }
 
   .hero__photo-shape {
-    max-width: 240px;
+    max-width: 200px;
     margin: 0 auto;
   }
 
@@ -904,11 +904,11 @@ body.modal-open {
   }
 
   .hero__inner {
-    padding-bottom: 5.5rem;
+    padding-bottom: 4.5rem;
   }
 
   .hero__photo-shape {
-    max-width: 200px;
+    max-width: 155px;
   }
 
   .sobre__photo {
